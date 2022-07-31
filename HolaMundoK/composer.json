@@ -1,8 +1,8 @@
 {
     "name": "bootcampkc/holamundok",
-    "description": "",
+    "description": "Este modulo saluda al mundo",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.0", 
     "license": [
       "MIT"
     ],
