@@ -29,7 +29,7 @@ class AmazonTheme9 implements \Magento\Framework\Setup\Patch\DataPatchInterface
             'title' => 'AmazonPrueba',
             'identifier' => 'amzao',
             'is_active' => 1,
-            'content' => file_get_contents(__DIR__ . '/html/Amazon_productos.html'),
+            'content' => file_get_contents(__DIR__ . '/html/Amazon_productos9.html'),
         ];
 
         $this->makeBackup($block_data_menu);
