@@ -1,6 +1,6 @@
 <?php
 
-namespace Omnipro\Cmsblock\Setup\Patch\Data;
+namespace repoback\PageBuilderBlockTheme\Setup\Patch\Data;
 
 class AmazonTheme implements \Magento\Framework\Setup\Patch\DataPatchInterface
 {
