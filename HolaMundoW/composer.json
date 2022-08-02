@@ -1,0 +1,20 @@
+{
+    "name": "repoback/holamundow",
+    "description": "",
+    "require": {
+      "php": ">=7.4"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "MIT"
+    ],
+    "autoload": {
+      "psr-4": {
+        "Repoback\\HolaMundoW\\": ""
+      },
+      "files": [
+        "registration.php"
+      ]
+    }
+  }
